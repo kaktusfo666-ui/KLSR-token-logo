@@ -1,0 +1,19 @@
+{
+  "name": "Kalsarikännit Token List",
+  "logoURI": "https://raw.githubusercontent.com/kaktusfo666-ui/KLSR-token-logo/main/1000013292.png",
+  "tokens": [
+    {
+      "name": "Kalsarikännit Coin",
+      "symbol": "KLSR",
+      "address": "0xc9e940b65ae83477fcc0b7700cccd36d40e683",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/kaktusfo666-ui/KLSR-token-logo/main/1000013292.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
